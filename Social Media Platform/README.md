@@ -167,7 +167,7 @@ This project helped strengthen skills in:
 
 # 👩‍💻 Author
 
-### Ramya Rajarapu
+### Rajarapu Ramya
 
 GitHub:
 https://github.com/RajarapuRamya/CodeAlpha_ProjectName.git
