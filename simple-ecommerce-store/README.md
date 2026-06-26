@@ -118,13 +118,13 @@ simple-ecommerce-store/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/RajarapuRamya/CodeAlpha_ProjectName.git
+git clone https://github.com/RajarapuRamya/CodeAlpha_TechStore.git
 ```
 
 ### 2️⃣ Navigate to Project Directory
 
 ```bash
-cd CodeAlpha_ProjectName
+cd CodeAlpha_TechStore
 ```
 
 ### 3️⃣ Install Dependencies
@@ -201,7 +201,7 @@ Through this project I gained hands-on experience with:
 
 **Rajarapu Ramya**
 
-- GitHub: https://github.com/RajarapuRamya/CodeAlpha_ProjectName.git
+- GitHub: https://github.com/RajarapuRamya/CodeAlpha_TechStore.git
 ---
 
 ## ⭐ Support
